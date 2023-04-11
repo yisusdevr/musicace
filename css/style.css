@@ -1,0 +1,3683 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body {
+    background: black;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin: 0;
+    animation: fadein 0.5s; 
+}
+.nav {
+    background: rgb(36, 36, 36);
+    padding: 1%;
+    width: 100%;
+
+
+
+}
+.integrant {
+    background: rgb(39, 38, 38);
+}
+.integrant2 {
+    background: #1e1e1e;
+}
+@keyframes fadein {
+    0% {
+        opacity:0;
+    }
+    50%{
+        opacity:0.5;
+    }
+    100% {
+        opacity:1;
+    }
+}
+h2 {
+    color: white;
+}
+body::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+.imgace {
+width: 2%;
+}
+.musictitle {
+    color: white;
+    font-weight: bold;
+}
+.nav2 {
+    background: rgb(36, 36, 36);
+color: white;
+    padding: 0.1%;
+
+
+}
+.nav3 {
+    background: rgb(36, 36, 36);
+    color: white;
+
+    padding: 0.1%;
+width: 100%;
+
+}
+a {
+    text-decoration: none;
+    color: black;
+    padding: 0.5%;
+}
+.bar {
+
+    color: white;
+}
+
+.img1 {
+    width: 20%;
+
+    padding: 5%;
+}
+.img2 {
+    padding: 3%;
+    border-radius: 70%;
+    width: 10%;
+}
+div {
+    display:inline-block;
+
+
+}
+
+.div2 {
+ 
+}
+.container {
+    padding: 1%;
+    width: 40%;
+}
+.container2 {
+
+    width: 40%;
+    padding-left: 5%;
+}
+.container3 {
+
+    width: 70%;
+    padding-left: 5%;
+}
+.d1 {
+    float: left;
+    background: #d1b43f;
+    
+    height: 15vh;
+    width:45%;
+    text-align: center;
+    height:19vh;    
+    font-size: 100%;
+    border-radius: 10px;
+}
+.d2 {
+    float: right;
+  
+    background: #031D44;
+    height: 15vh;
+    width:45%;
+    text-align: center;
+    height:19vh;    
+    font-size: 80%;
+
+    border-radius: 10px;
+}
+.d3 {
+    float: left;
+  
+    background: #6f0e0e;
+    height: 15vh;
+    width:45%;
+    text-align: center;
+    height:19vh;    
+    font-size: 100%;
+
+    border-radius: 10px;
+}
+.d4 {
+    float: right;
+  
+    background: #440343;
+    height: 15vh;
+    width:45%;
+    text-align: center;
+    height:19vh;    
+    font-size: 100%;
+
+    border-radius: 10px;
+}
+.d5 {
+    float: left;
+  
+    background: #e11b95;
+    height: 15vh;
+    width:45%;
+    text-align: center;
+    height:19vh;    
+    font-size: 100%;
+
+    border-radius: 10px;
+}
+.d6 {
+    float: right;
+  
+    background: #507701;
+    height: 15vh;
+    width:45%;
+    text-align: center;
+    height:19vh;    
+    font-size: 100%;
+
+    border-radius: 10px;
+}
+.d7 {
+    float: left;
+  
+    background: #1c6cb7;
+    height: 15vh;
+    width:45%;
+    text-align: center;
+    height:19vh;    
+    font-size: 80%;
+
+    border-radius: 10px;
+}
+.d8 {
+    float: right;
+  
+    background: #910c0c;
+    height: 15vh;
+    width:45%;
+    text-align: center;
+    height:19vh;    
+    font-size: 100%;
+
+    border-radius: 10px;
+}
+
+.dc1 {
+    float: left;
+  
+    background: #181819;
+    height: 31vh;
+    width:40%;
+    text-align: center;
+       padding: 2%;
+    font-size: 40px;
+    border-radius: 10px;
+}
+.dcc1 {
+    float: left;
+  
+    background: #181819;
+    height: 31vh;
+    width:28%;
+    text-align: center;
+    
+    font-size: 40px;
+    border-radius: 10px;
+}
+.dcc2 {
+
+  
+    background: #181819;
+    height: 31vh;
+    width:28%;
+    text-align: center;
+    
+    font-size: 40px;
+    border-radius: 10px;
+}
+.dc2 {
+    float: right;
+  
+    background: #181819;
+    height: 31vh;
+    width:40%;
+    text-align: center;
+       padding: 2%;
+    font-size: 40px;
+    border-radius: 10px;
+}
+.acategoria {
+    color:white;
+   
+}
+.divhijo {
+    background: #979797;
+    height: 19vh;
+    width:90%;
+    text-align: center;
+       
+    font-size: 40px;
+    border-radius: 10px;
+}
+.divhijo1 {
+    background: #979797;
+    height: 19vh;
+    width:90%;
+    text-align: center;
+       
+    font-size: 40px;
+    border-radius: 80px;
+}
+.divhijo2 {
+    background: #979797;
+
+    width:70%;
+    
+  
+}
+.titleproduct {
+font-size: 200%;
+}
+.pcontainer {
+    text-align: left;
+    font-size: 25%;
+}
+.pcontainer2 {
+    text-align: left;
+    font-size: 15px;
+    color:red;
+}
+.ull {
+list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.pred {
+    color: red;
+}
+.pdes {
+    width: 10%;
+}
+main {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding: 20px;
+}
+
+.album {
+    flex-basis: 48%;
+    color: aliceblue;
+}
+
+section {
+	flex-basis: 48%;
+}
+
+/* Estilos para la sección del artista */
+
+.titulo1 {
+    font-size: 50px;
+}
+
+section:first-child {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+section:first-child img {
+	width: 100%;
+	max-width: 400px;
+	margin-bottom: 20px;
+}
+
+/* Estilos para la sección de las canciones */
+
+.titulo2 {
+color: aliceblue;
+font-size: 50px;
+}
+
+section:last-child {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.canciones {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	width: 100%;
+    height: 200px;
+}
+
+.cancion {
+	flex-basis: 30%;
+	background-color: #333333;
+    border-radius: 10px;
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+.cancion h2 {
+	margin-top: 0;
+}
+
+@media only screen and (max-width: 768px) {
+	main {
+		flex-direction: column;
+	}
+	section {
+		flex-basis: 100%;
+	}
+}   
+
+.albumimg {
+    border-radius: 200px;
+}
+.imgproduct {
+    width: 40%;
+}
+/* FOR 1920*1080 */
+@media screen and (max-width:1920px) {
+    .nav {
+        background: rgb(0, 0, 0);
+        padding: 1%;
+        width: 100%;
+    
+    
+    
+    }
+    @keyframes fadein {
+        0% {
+            opacity:0;
+        }
+        50%{
+            opacity:0.5;
+        }
+        100% {
+            opacity:1;
+        }
+    }
+    h2 {
+        color: white;
+    }
+    body::-webkit-scrollbar {
+        -webkit-appearance: none;
+    }
+    .imgace {
+    width: 2%;
+    }
+    .musictitle {
+        color: white;
+        font-weight: bold;
+    }
+    .nav2 {
+        background: rgb(36, 36, 36);
+    color: white;
+        padding: 0.1%;
+    
+    
+    }
+    .nav3 {
+        background: rgb(36, 36, 36);
+        color: white;
+    
+        padding: 0.1%;
+    width: 100%;
+    
+    }
+    a {
+        text-decoration: none;
+        color: black;
+        padding: 0.5%;
+    }
+    .bar {
+    
+        color: white;
+    }
+    
+    .img1 {
+        width: 20%;
+    
+        padding: 5%;
+    }
+    .img2 {
+        padding: 3%;
+        border-radius: 70%;
+        width: 10%;
+    }
+    div {
+        display:inline-block;
+    
+    
+    }
+    
+    .div2 {
+     
+    }
+    .container {
+        padding: 1%;
+        width: 40%;
+    }
+    .container2 {
+    
+        width: 40%;
+        padding-left: 5%;
+    }
+    .container3 {
+    
+        width: 70%;
+        padding-left: 5%;
+    }
+    .d1 {
+        float: left;
+        background: #d1b43f;
+        
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 170%;
+        border-radius: 10px;
+    }
+    .d2 {
+        float: right;
+      
+        background: #031D44;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 170%;
+
+    
+        border-radius: 10px;
+    }
+    .d3 {
+        float: left;
+      
+        background: #6f0e0e;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 170%;
+
+    
+        border-radius: 10px;
+    }
+    .d4 {
+        float: right;
+      
+        background: #440343;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 170%;
+
+    
+        border-radius: 10px;
+    }
+    .d5 {
+        float: left;
+      
+        background: #e11b95;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 170%;
+
+    
+        border-radius: 10px;
+    }
+    .d6 {
+        float: right;
+      
+        background: #507701;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+           font-size: 170%;
+
+    
+        border-radius: 10px;
+    }
+    .d7 {
+        float: left;
+      
+        background: #1c6cb7;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 170%;
+
+    
+        border-radius: 10px;
+    }
+    .d8 {
+        float: right;
+      
+        background: #910c0c;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 170%;
+
+    
+        border-radius: 10px;
+    }
+    
+    .dc1 {
+        float: left;
+      
+        background: #181819;
+        height: 31vh;
+        width:40%;
+        text-align: center;
+           padding: 2%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc1 {
+        float: left;
+      
+        background: #181819;
+        height: 31vh;
+        width:28%;
+        text-align: center;
+        
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc2 {
+    
+      
+        background: #181819;
+        height: 31vh;
+        width:28%;
+        text-align: center;
+        
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dc2 {
+        float: right;
+      
+        background: #181819;
+        height: 31vh;
+        width:40%;
+        text-align: center;
+           padding: 2%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .acategoria {
+        color:white;
+       
+    }
+    .divhijo {
+        background: #979797;
+        height: 19vh;
+        width:90%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .divhijo1 {
+        background: #979797;
+        height: 18vh;
+        width:88%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 80px;
+    }
+    .divhijo2 {
+        background: #979797;
+    
+        width:70%;
+        
+      
+    }
+    .titleproduct {
+    font-size: 200%;
+    }
+    .pcontainer {
+        text-align: left;
+        font-size: 25%;
+    }
+    .pcontainer2 {
+        text-align: left;
+        font-size: 15px;
+        color:red;
+    }
+    .ull {
+    list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+    .pred {
+        color: red;
+    }
+    .pdes {
+        width: 10%;
+    }
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    
+    .album {
+        flex-basis: 48%;
+        color: aliceblue;
+    }
+    
+    section {
+        flex-basis: 48%;
+    }
+    
+    /* Estilos para la sección del artista */
+    
+    .titulo1 {
+        font-size: 50px;
+    }
+    
+    section:first-child {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    section:first-child img {
+        width: 100%;
+        max-width: 400px;
+        margin-bottom: 20px;
+    }
+    
+    /* Estilos para la sección de las canciones */
+    
+    .titulo2 {
+    color: aliceblue;
+    font-size: 50px;
+    }
+    
+    section:last-child {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .canciones {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        height: 200px;
+    }
+    
+    .cancion {
+        flex-basis: 30%;
+        background-color: #333333;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    .cancion h2 {
+        margin-top: 0;
+    }
+    
+    @media only screen and (max-width: 768px) {
+        main {
+            flex-direction: column;
+        }
+        section {
+            flex-basis: 100%;
+        }
+    }   
+    
+    .albumimg {
+        border-radius: 200px;
+    }
+    .imgproduct {
+        width: 40%;
+    }  
+}
+/* FOR 1600*900 */
+@media screen and (max-width:1600px) {
+    .nav {
+        background: rgb(0, 0, 0);
+        padding: 1%;
+        width: 100%;
+    
+    
+    
+    }
+    @keyframes fadein {
+        0% {
+            opacity:0;
+        }
+        50%{
+            opacity:0.5;
+        }
+        100% {
+            opacity:1;
+        }
+    }
+    h2 {
+        color: white;
+    }
+    body::-webkit-scrollbar {
+        -webkit-appearance: none;
+    }
+    .imgace {
+    width: 2%;
+    }
+    .musictitle {
+        color: white;
+        font-weight: bold;
+    }
+    .nav2 {
+        background: rgb(36, 36, 36);
+    color: white;
+        padding: 0.1%;
+    
+    
+    }
+    .nav3 {
+        background: rgb(36, 36, 36);
+        color: white;
+    
+        padding: 0.1%;
+    width: 100%;
+    
+    }
+    a {
+        text-decoration: none;
+        color: black;
+        padding: 0.5%;
+    }
+    .bar {
+    
+        color: white;
+    }
+    
+    .img1 {
+        width: 20%;
+    
+        padding: 5%;
+    }
+    .img2 {
+        padding: 3%;
+        border-radius: 70%;
+        width: 10%;
+    }
+    div {
+        display:inline-block;
+    
+    
+    }
+    
+    .div2 {
+     
+    }
+    .container {
+        padding: 1%;
+        width: 40%;
+    }
+    .container2 {
+    
+        width: 40%;
+        padding-left: 5%;
+    }
+    .container3 {
+    
+        width: 70%;
+        padding-left: 5%;
+    }
+    .d1 {
+        float: left;
+        background: #d1b43f;
+        
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+        border-radius: 10px;
+    }
+    .d2 {
+        float: right;
+      
+        background: #031D44;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+    
+        border-radius: 10px;
+    }
+    .d3 {
+        float: left;
+      
+        background: #6f0e0e;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+    
+        border-radius: 10px;
+    }
+    .d4 {
+        float: right;
+      
+        background: #440343;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+    
+        border-radius: 10px;
+    }
+    .d5 {
+        float: left;
+      
+        background: #e11b95;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+    
+        border-radius: 10px;
+    }
+    .d6 {
+        float: right;
+      
+        background: #507701;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+    
+        border-radius: 10px;
+    }
+    .d7 {
+        float: left;
+      
+        background: #1c6cb7;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+    
+        border-radius: 10px;
+    }
+    .d8 {
+        float: right;
+      
+        background: #910c0c;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+    
+        border-radius: 10px;
+    }
+    
+    .dc1 {
+        float: left;
+      
+        background: #181819;
+        height: 31vh;
+        width:40%;
+        text-align: center;
+           padding: 2%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc1 {
+        float: left;
+      
+        background: #181819;
+        height: 31vh;
+        width:28%;
+        text-align: center;
+        
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc2 {
+    
+      
+        background: #181819;
+        height: 31vh;
+        width:28%;
+        text-align: center;
+        
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dc2 {
+        float: right;
+      
+        background: #181819;
+        height: 31vh;
+        width:40%;
+        text-align: center;
+           padding: 2%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .acategoria {
+        color:white;
+       
+    }
+    .divhijo {
+        background: #979797;
+        height: 19vh;
+        width:90%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .divhijo1 {
+        background: #979797;
+        height: 19vh;
+        width:90%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 80px;
+    }
+    .divhijo2 {
+        background: #979797;
+    
+        width:70%;
+        
+      
+    }
+    .titleproduct {
+    font-size: 200%;
+    }
+    .pcontainer {
+        text-align: left;
+        font-size: 25%;
+    }
+    .pcontainer2 {
+        text-align: left;
+        font-size: 15px;
+        color:red;
+    }
+    .ull {
+    list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+    .pred {
+        color: red;
+    }
+    .pdes {
+        width: 10%;
+    }
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    
+    .album {
+        flex-basis: 48%;
+        color: aliceblue;
+    }
+    
+    section {
+        flex-basis: 48%;
+    }
+    
+    /* Estilos para la sección del artista */
+    
+    .titulo1 {
+        font-size: 50px;
+    }
+    
+    section:first-child {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    section:first-child img {
+        width: 100%;
+        max-width: 400px;
+        margin-bottom: 20px;
+    }
+    
+    /* Estilos para la sección de las canciones */
+    
+    .titulo2 {
+    color: aliceblue;
+    font-size: 50px;
+    }
+    
+    section:last-child {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .canciones {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        height: 200px;
+    }
+    
+    .cancion {
+        flex-basis: 30%;
+        background-color: #333333;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    .cancion h2 {
+        margin-top: 0;
+    }
+    
+    @media only screen and (max-width: 768px) {
+        main {
+            flex-direction: column;
+        }
+        section {
+            flex-basis: 100%;
+        }
+    }   
+    
+    .albumimg {
+        border-radius: 200px;
+    }
+    .imgproduct {
+        width: 40%;
+    }  
+}
+/* FOR 1400X900 SCREENS */
+@media screen and (max-width:1400px) {
+    .nav {
+        background: rgb(0, 0, 0);
+        padding: 1%;
+        width: 100%;
+    
+    
+    
+    }
+    @keyframes fadein {
+        0% {
+            opacity:0;
+        }
+        50%{
+            opacity:0.5;
+        }
+        100% {
+            opacity:1;
+        }
+    }
+    h2 {
+        color: white;
+    }
+    body::-webkit-scrollbar {
+        -webkit-appearance: none;
+    }
+    .imgace {
+    width: 2%;
+    }
+    .musictitle {
+        color: white;
+        font-weight: bold;
+    }
+    .nav2 {
+        background: rgb(36, 36, 36);
+    color: white;
+        padding: 0.1%;
+    
+    
+    }
+    .nav3 {
+        background: rgb(36, 36, 36);
+        color: white;
+    
+        padding: 0.1%;
+    width: 100%;
+    
+    }
+    a {
+        text-decoration: none;
+        color: black;
+        padding: 0.5%;
+    }
+    .bar {
+    
+        color: white;
+    }
+    
+    .img1 {
+        width: 20%;
+    
+        padding: 5%;
+    }
+    .img2 {
+        padding: 3%;
+        border-radius: 70%;
+        width: 10%;
+    }
+    div {
+        display:inline-block;
+    
+    
+    }
+    
+    .div2 {
+     
+    }
+    .container {
+        padding: 1%;
+        width: 40%;
+    }
+    .container2 {
+    
+        width: 40%;
+        padding-left: 5%;
+    }
+    .container3 {
+    
+        width: 70%;
+        padding-left: 5%;
+    }
+    .d1 {
+        float: left;
+        background: #d1b43f;
+        
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+        border-radius: 10px;
+    }
+    .d2 {
+        float: right;
+      
+        background: #031D44;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+    
+        border-radius: 10px;
+    }
+    .d3 {
+        float: left;
+      
+        background: #6f0e0e;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+    
+        border-radius: 10px;
+    }
+    .d4 {
+        float: right;
+      
+        background: #440343;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+    
+        border-radius: 10px;
+    }
+    .d5 {
+        float: left;
+      
+        background: #e11b95;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+    
+        border-radius: 10px;
+    }
+    .d6 {
+        float: right;
+      
+        background: #507701;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+    
+        border-radius: 10px;
+    }
+    .d7 {
+        float: left;
+      
+        background: #1c6cb7;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+    
+        border-radius: 10px;
+    }
+    .d8 {
+        float: right;
+      
+        background: #910c0c;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 150%;
+    
+        border-radius: 10px;
+    }
+    
+    .dc1 {
+        float: left;
+      
+        background: #181819;
+        height: 31vh;
+        width:40%;
+        text-align: center;
+           padding: 2%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc1 {
+        float: left;
+      
+        background: #181819;
+        height: 31vh;
+        width:28%;
+        text-align: center;
+        
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc2 {
+    
+      
+        background: #181819;
+        height: 31vh;
+        width:28%;
+        text-align: center;
+        
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dc2 {
+        float: right;
+      
+        background: #181819;
+        height: 31vh;
+        width:40%;
+        text-align: center;
+           padding: 2%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .acategoria {
+        color:white;
+       
+    }
+    .divhijo {
+        background: #979797;
+        height: 19vh;
+        width:90%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .divhijo1 {
+        background: #979797;
+        height: 15vh;
+        width:80%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 80px;
+    }
+    .divhijo2 {
+        background: #979797;
+    
+        width:70%;
+        
+      
+    }
+    .titleproduct {
+    font-size: 200%;
+    }
+    .pcontainer {
+        text-align: left;
+        font-size: 25%;
+    }
+    .pcontainer2 {
+        text-align: left;
+        font-size: 15px;
+        color:red;
+    }
+    .ull {
+    list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+    .pred {
+        color: red;
+    }
+    .pdes {
+        width: 10%;
+    }
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    
+    .album {
+        flex-basis: 48%;
+        color: aliceblue;
+    }
+    
+    section {
+        flex-basis: 48%;
+    }
+    
+    /* Estilos para la sección del artista */
+    
+    .titulo1 {
+        font-size: 50px;
+    }
+    
+    section:first-child {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    section:first-child img {
+        width: 100%;
+        max-width: 400px;
+        margin-bottom: 20px;
+    }
+    
+    /* Estilos para la sección de las canciones */
+    
+    .titulo2 {
+    color: aliceblue;
+    font-size: 50px;
+    }
+    
+    section:last-child {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .canciones {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        height: 200px;
+    }
+    
+    .cancion {
+        flex-basis: 30%;
+        background-color: #333333;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    .cancion h2 {
+        margin-top: 0;
+    }
+    
+    @media only screen and (max-width: 768px) {
+        main {
+            flex-direction: column;
+        }
+        section {
+            flex-basis: 100%;
+        }
+    }   
+    
+    .albumimg {
+        border-radius: 200px;
+    }
+    .imgproduct {
+        width: 40%;
+    }  
+}
+
+/* for 1280*720 */
+@media screen and (max-width:1280px) {
+    .nav {
+        background: rgb(0, 0, 0);
+        padding: 1%;
+        width: 100%;
+    
+    
+    
+    }
+    @keyframes fadein {
+        0% {
+            opacity:0;
+        }
+        50%{
+            opacity:0.5;
+        }
+        100% {
+            opacity:1;
+        }
+    }
+    h2 {
+        color: white;
+    }
+    body::-webkit-scrollbar {
+        -webkit-appearance: none;
+    }
+    .imgace {
+    width: 2%;
+    }
+    .musictitle {
+        color: white;
+        font-weight: bold;
+    }
+    .nav2 {
+        background: rgb(36, 36, 36);
+    color: white;
+        padding: 0.1%;
+    
+    
+    }
+    .nav3 {
+        background: rgb(36, 36, 36);
+        color: white;
+    
+        padding: 0.1%;
+    width: 100%;
+    
+    }
+    a {
+        text-decoration: none;
+        color: black;
+        padding: 0.5%;
+    }
+    .bar {
+    
+        color: white;
+    }
+    
+    .img1 {
+        width: 20%;
+    
+        padding: 5%;
+    }
+    .img2 {
+        padding: 3%;
+        border-radius: 70%;
+        width: 10%;
+    }
+    div {
+        display:inline-block;
+    
+    
+    }
+    
+    .div2 {
+     
+    }
+    .container {
+        padding: 1%;
+        width: 40%;
+    }
+    .container2 {
+    
+        width: 40%;
+        padding-left: 5%;
+    }
+    .container3 {
+    
+        width: 70%;
+        padding-left: 5%;
+    }
+    .d1 {
+        float: left;
+        background: #d1b43f;
+        
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 120%;
+        border-radius: 10px;
+    }
+    .d2 {
+        float: right;
+      
+        background: #031D44;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 120%;
+
+    
+        border-radius: 10px;
+    }
+    .d3 {
+        float: left;
+      
+        background: #6f0e0e;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 120%;
+
+    
+        border-radius: 10px;
+    }
+    .d4 {
+        float: right;
+      
+        background: #440343;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 120%;
+
+    
+        border-radius: 10px;
+    }
+    .d5 {
+        float: left;
+      
+        background: #e11b95;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 120%;
+
+    
+        border-radius: 10px;
+    }
+    .d6 {
+        float: right;
+      
+        background: #507701;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 120%;
+
+    
+        border-radius: 10px;
+    }
+    .d7 {
+        float: left;
+      
+        background: #1c6cb7;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 120%;
+
+    
+        border-radius: 10px;
+    }
+    .d8 {
+        float: right;
+      
+        background: #910c0c;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 120%;
+
+    
+        border-radius: 10px;
+    }
+    
+    .dc1 {
+        float: left;
+      
+        background: #181819;
+        height: 31vh;
+        width:40%;
+        text-align: center;
+           padding: 2%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc1 {
+        float: left;
+      
+        background: #181819;
+        height: 31vh;
+        width:28%;
+        text-align: center;
+        
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc2 {
+    
+      
+        background: #181819;
+        height: 31vh;
+        width:28%;
+        text-align: center;
+        
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dc2 {
+        float: right;
+      
+        background: #181819;
+        height: 31vh;
+        width:40%;
+        text-align: center;
+           padding: 2%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .acategoria {
+        color:white;
+       
+    }
+    .divhijo {
+        background: #979797;
+        height: 19vh;
+        width:90%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .divhijo1 {
+        background: #979797;
+        height: 19vh;
+        width:90%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 80px;
+    }
+    .divhijo2 {
+        background: #979797;
+    
+        width:70%;
+        
+      
+    }
+    .titleproduct {
+    font-size: 200%;
+    }
+    .pcontainer {
+        text-align: left;
+        font-size: 25%;
+    }
+    .pcontainer2 {
+        text-align: left;
+        font-size: 15px;
+        color:red;
+    }
+    .ull {
+    list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+    .pred {
+        color: red;
+    }
+    .pdes {
+        width: 10%;
+    }
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    
+    .album {
+        flex-basis: 48%;
+        color: aliceblue;
+    }
+    
+    section {
+        flex-basis: 48%;
+    }
+    
+    /* Estilos para la sección del artista */
+    
+    .titulo1 {
+        font-size: 50px;
+    }
+    
+    section:first-child {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    section:first-child img {
+        width: 100%;
+        max-width: 400px;
+        margin-bottom: 20px;
+    }
+    
+    /* Estilos para la sección de las canciones */
+    
+    .titulo2 {
+    color: aliceblue;
+    font-size: 50px;
+    }
+    
+    section:last-child {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .canciones {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        height: 200px;
+    }
+    
+    .cancion {
+        flex-basis: 30%;
+        background-color: #333333;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    .cancion h2 {
+        margin-top: 0;
+    }
+    
+    @media only screen and (max-width: 768px) {
+        main {
+            flex-direction: column;
+        }
+        section {
+            flex-basis: 100%;
+        }
+    }   
+    
+    .albumimg {
+        border-radius: 200px;
+    }
+    .imgproduct {
+        width: 40%;
+    }  
+}
+/* FOR  1024*600 */
+@media screen and (max-width:1024px) {
+    .nav {
+        background: rgb(0, 0, 0);
+        padding: 1%;
+        width: 100%;
+    
+    
+    
+    }
+    @keyframes fadein {
+        0% {
+            opacity:0;
+        }
+        50%{
+            opacity:0.5;
+        }
+        100% {
+            opacity:1;
+        }
+    }
+    h2 {
+        color: white;
+    }
+    body::-webkit-scrollbar {
+        -webkit-appearance: none;
+    }
+    .imgace {
+    width: 2%;
+    }
+    .musictitle {
+        color: white;
+        font-weight: bold;
+    }
+    .nav2 {
+        background: rgb(36, 36, 36);
+    color: white;
+        padding: 0.1%;
+    
+    
+    }
+    .nav3 {
+        background: rgb(36, 36, 36);
+        color: white;
+    
+        padding: 0.1%;
+    width: 100%;
+    
+    }
+    a {
+        text-decoration: none;
+        color: black;
+        padding: 0.5%;
+    }
+    .bar {
+    
+        color: white;
+    }
+    
+    .img1 {
+        width: 20%;
+    
+        padding: 5%;
+    }
+    .img2 {
+        padding: 3%;
+        border-radius: 70%;
+        width: 10%;
+    }
+    div {
+        display:inline-block;
+    
+    
+    }
+    
+    .div2 {
+     
+    }
+    .container {
+        padding: 1%;
+        width: 40%;
+    }
+    .container2 {
+    
+        width: 40%;
+        padding-left: 5%;
+    }
+    .container3 {
+    
+        width: 70%;
+        padding-left: 5%;
+    }
+    .d1 {
+        float: left;
+        background: #d1b43f;
+        
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+        border-radius: 10px;
+    }
+    .d2 {
+        float: right;
+      
+        background: #031D44;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 80%;
+    
+        border-radius: 10px;
+    }
+    .d3 {
+        float: left;
+      
+        background: #6f0e0e;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d4 {
+        float: right;
+      
+        background: #440343;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d5 {
+        float: left;
+      
+        background: #e11b95;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d6 {
+        float: right;
+      
+        background: #507701;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d7 {
+        float: left;
+      
+        background: #1c6cb7;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 80%;
+    
+        border-radius: 10px;
+    }
+    .d8 {
+        float: right;
+      
+        background: #910c0c;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    
+    .dc1 {
+        float: left;
+      
+        background: #181819;
+        height: 31vh;
+        width:40%;
+        text-align: center;
+           padding: 2%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc1 {
+        float: left;
+      
+        background: #181819;
+        height: 31vh;
+        width:28%;
+        text-align: center;
+        
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc2 {
+    
+      
+        background: #181819;
+        height: 31vh;
+        width:28%;
+        text-align: center;
+        
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dc2 {
+        float: right;
+      
+        background: #181819;
+        height: 31vh;
+        width:40%;
+        text-align: center;
+           padding: 2%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .acategoria {
+        color:white;
+       
+    }
+    .divhijo {
+        background: #979797;
+        height: 19vh;
+        width:90%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .divhijo1 {
+        background: #979797;
+        height: 15vh;
+        width:80%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 80px;
+    }
+    .divhijo2 {
+        background: #979797;
+    
+        width:70%;
+        
+      
+    }
+    .titleproduct {
+    font-size: 200%;
+    }
+    .pcontainer {
+        text-align: left;
+        font-size: 25%;
+    }
+    .pcontainer2 {
+        text-align: left;
+        font-size: 15px;
+        color:red;
+    }
+    .ull {
+    list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+    .pred {
+        color: red;
+    }
+    .pdes {
+        width: 10%;
+    }
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    
+    .album {
+        flex-basis: 48%;
+        color: aliceblue;
+    }
+    
+    section {
+        flex-basis: 48%;
+    }
+    
+    /* Estilos para la sección del artista */
+    
+    .titulo1 {
+        font-size: 50px;
+    }
+    
+    section:first-child {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    section:first-child img {
+        width: 100%;
+        max-width: 400px;
+        margin-bottom: 20px;
+    }
+    
+    /* Estilos para la sección de las canciones */
+    
+    .titulo2 {
+    color: aliceblue;
+    font-size: 50px;
+    }
+    
+    section:last-child {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .canciones {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        height: 200px;
+    }
+    
+    .cancion {
+        flex-basis: 30%;
+        background-color: #333333;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    .cancion h2 {
+        margin-top: 0;
+    }
+    
+    @media only screen and (max-width: 768px) {
+        main {
+            flex-direction: column;
+        }
+        section {
+            flex-basis: 100%;
+        }
+    }   
+    
+    .albumimg {
+        border-radius: 200px;
+    }
+    .imgproduct {
+        width: 40%;
+    }  
+}
+/* FOR MOBILE 412*915 */
+@media screen and (max-width:412px) {
+    .nav {
+        background: rgb(31, 30, 30);
+        padding: 4%;
+        width: 100%;
+    
+    
+    
+    }
+    @keyframes fadein {
+        0% {
+            opacity:0;
+        }
+        50%{
+            opacity:0.5;
+        }
+        100% {
+            opacity:1;
+        }
+    }
+    h2 {
+        color: white;
+    }
+    body::-webkit-scrollbar {
+        -webkit-appearance: none;
+    }
+    .imgace {
+    width: 2%;
+    }
+    .musictitle {
+        color: white;
+        font-weight: bold;
+    }
+    .nav2 {
+        background: rgb(36, 36, 36);
+    color: white;
+        padding: 0.1%;
+    
+    
+    }
+    .nav3 {
+        background: rgb(36, 36, 36);
+        color: white;
+    
+        padding: 0.1%;
+    width: 100%;
+    
+    }
+    a {
+        text-decoration: none;
+        color: black;
+        padding: 0.5%;
+    }
+    .bar {
+    
+        color: white;
+    }
+    
+    .img1 {
+        width: 40%;
+    
+        padding: 5%;
+    }
+    .img2 {
+        padding: 3%;
+        border-radius: 70%;
+        width: 40%;
+    }
+    div {
+        display:inline-block;
+    
+    
+    }
+    
+    .div2 {
+     
+    }
+    .container {
+        padding: 1%;
+        width: 40%;
+    }
+    .container2 {
+    
+        width:45%;
+        padding-left: 5%;
+
+    }
+    .container3 {
+    
+        width: 70%;
+        padding-left: 5%;
+    }
+    .d1 {
+        float: left;
+        background: #d1b43f;
+        
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+        border-radius: 10px;
+    }
+    .d2 {
+        float: right;
+      
+        background: #031D44;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 80%;
+    
+        border-radius: 10px;
+    }
+    .d3 {
+        float: left;
+      
+        background: #6f0e0e;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d4 {
+        float: right;
+      
+        background: #440343;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d5 {
+        float: left;
+      
+        background: #e11b95;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d6 {
+        float: right;
+      
+        background: #507701;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d7 {
+        float: left;
+      
+        background: #1c6cb7;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 80%;
+    
+        border-radius: 10px;
+    }
+    .d8 {
+        float: right;
+      
+        background: #910c0c;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    
+    .dc1 {
+        float: left;
+      
+        background: #181819;
+        height: 22vh;
+        width:50%;
+        text-align: center;
+           padding: 2%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc1 {
+        float: left;
+      
+        background: #181819;
+        height: 12vh;
+        width:35%;
+        text-align: center;
+        padding: 10%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc2 {
+    
+        background: #181819;
+        height: 12vh;
+        width:35%;
+        text-align: center;
+        padding: 10%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dc2 {
+        float: right;
+        background: #181819;
+        height: 12vh;
+        width:35%;
+        text-align: center;
+        padding: 10%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .acategoria {
+        color:white;
+       
+    }
+    .divhijo {
+        background: #979797;
+        height: 10vh;
+        width:90%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .divhijo1 {
+        background: #979797;
+        height: 5vh;
+        width:90%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 80px;
+    }
+    .divhijo2 {
+        background: #979797;
+    
+        width:100%;
+        
+      
+    }
+    .titleproduct {
+    font-size: 100%;
+    }
+    .pcontainer {
+        text-align: left;
+        font-size: 25%;
+    }
+    .pcontainer2 {
+        text-align: left;
+        font-size: 15px;
+        color:red;
+    }
+    .ull {
+    list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+    .pred {
+        color: red;
+    }
+    .pdes {
+        width: 10%;
+    }
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    
+    .album {
+        flex-basis: 48%;
+        color: aliceblue;
+    }
+    
+    section {
+        flex-basis: 48%;
+    }
+    
+    /* Estilos para la sección del artista */
+    
+    .titulo1 {
+        font-size: 50px;
+    }
+    
+    section:first-child {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    section:first-child img {
+        width: 100%;
+        max-width: 400px;
+        margin-bottom: 20px;
+    }
+    
+    /* Estilos para la sección de las canciones */
+    
+    .titulo2 {
+    color: aliceblue;
+    font-size: 50px;
+    }
+    
+    section:last-child {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .canciones {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        height: 200px;
+    }
+    
+    .cancion {
+        flex-basis: 30%;
+        background-color: #333333;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    .cancion h2 {
+        margin-top: 0;
+    }
+    
+    @media only screen and (max-width: 768px) {
+        main {
+            flex-direction: column;
+        }
+        section {
+            flex-basis: 100%;
+        }
+    }   
+    
+    .albumimg {
+        border-radius: 200px;
+    }
+    .imgproduct {
+        width: 40%;
+    }  
+}
+/* FOR MOBILE 414*816 */
+@media screen and (max-width:414px) {
+    .nav {
+        background: rgb(31, 30, 30);
+        padding: 4%;
+        width: 100%;
+    
+    
+    
+    }
+    @keyframes fadein {
+        0% {
+            opacity:0;
+        }
+        50%{
+            opacity:0.5;
+        }
+        100% {
+            opacity:1;
+        }
+    }
+    h2 {
+        color: white;
+    }
+    body::-webkit-scrollbar {
+        -webkit-appearance: none;
+    }
+    .imgace {
+    width: 2%;
+    }
+    .musictitle {
+        color: white;
+        font-weight: bold;
+    }
+    .nav2 {
+        background: rgb(36, 36, 36);
+    color: white;
+        padding: 0.1%;
+    
+    
+    }
+    .nav3 {
+        background: rgb(36, 36, 36);
+        color: white;
+    
+        padding: 0.1%;
+    width: 100%;
+    
+    }
+    a {
+        text-decoration: none;
+        color: black;
+        padding: 0.5%;
+    }
+    .bar {
+    
+        color: white;
+    }
+    
+    .img1 {
+        width: 40%;
+    
+        padding: 5%;
+    }
+    .img2 {
+        padding: 3%;
+        border-radius: 70%;
+        width: 40%;
+    }
+    div {
+        display:inline-block;
+    
+    
+    }
+    
+    .div2 {
+     
+    }
+    .container {
+        padding: 1%;
+        width: 40%;
+    }
+    .container2 {
+    
+        width:45%;
+        padding-left: 5%;
+
+    }
+    .container3 {
+    
+        width: 70%;
+        padding-left: 5%;
+    }
+    .d1 {
+        float: left;
+        background: #d1b43f;
+        
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+        border-radius: 10px;
+    }
+    .d2 {
+        float: right;
+      
+        background: #031D44;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 80%;
+    
+        border-radius: 10px;
+    }
+    .d3 {
+        float: left;
+      
+        background: #6f0e0e;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d4 {
+        float: right;
+      
+        background: #440343;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d5 {
+        float: left;
+      
+        background: #e11b95;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d6 {
+        float: right;
+      
+        background: #507701;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d7 {
+        float: left;
+      
+        background: #1c6cb7;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 80%;
+    
+        border-radius: 10px;
+    }
+    .d8 {
+        float: right;
+      
+        background: #910c0c;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    
+    .dc1 {
+        float: left;
+      
+        background: #181819;
+        height: 22vh;
+        width:50%;
+        text-align: center;
+           padding: 2%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc1 {
+        float: left;
+      
+        background: #181819;
+        height: 12vh;
+        width:35%;
+        text-align: center;
+        padding: 10%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc2 {
+    
+        background: #181819;
+        height: 12vh;
+        width:35%;
+        text-align: center;
+        padding: 10%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dc2 {
+        float: right;
+        background: #181819;
+        height: 12vh;
+        width:35%;
+        text-align: center;
+        padding: 10%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .acategoria {
+        color:white;
+       
+    }
+    .divhijo {
+        background: #979797;
+        height: 10vh;
+        width:90%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .divhijo1 {
+        background: #979797;
+        height: 7vh;
+        width:90%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 80px;
+    }
+    .divhijo2 {
+        background: #979797;
+    
+        width:100%;
+        
+      
+    }
+    .titleproduct {
+    font-size: 100%;
+    }
+    .pcontainer {
+        text-align: left;
+        font-size: 25%;
+    }
+    .pcontainer2 {
+        text-align: left;
+        font-size: 15px;
+        color:red;
+    }
+    .ull {
+    list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+    .pred {
+        color: red;
+    }
+    .pdes {
+        width: 10%;
+    }
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    
+    .album {
+        flex-basis: 48%;
+        color: aliceblue;
+    }
+    
+    section {
+        flex-basis: 48%;
+    }
+    
+    /* Estilos para la sección del artista */
+    
+    .titulo1 {
+        font-size: 50px;
+    }
+    
+    section:first-child {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    section:first-child img {
+        width: 100%;
+        max-width: 400px;
+        margin-bottom: 20px;
+    }
+    
+    /* Estilos para la sección de las canciones */
+    
+    .titulo2 {
+    color: aliceblue;
+    font-size: 50px;
+    }
+    
+    section:last-child {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .canciones {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        height: 200px;
+    }
+    
+    .cancion {
+        flex-basis: 30%;
+        background-color: #333333;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    .cancion h2 {
+        margin-top: 0;
+    }
+    
+    @media only screen and (max-width: 768px) {
+        main {
+            flex-direction: column;
+        }
+        section {
+            flex-basis: 100%;
+        }
+    }   
+    
+    .albumimg {
+        border-radius: 200px;
+    }
+    .imgproduct {
+        width: 40%;
+    }  
+}
+/* FOR 428 * 926 */
+
+@media screen and (max-width:428px) {
+    .nav {
+        background: rgb(31, 30, 30);
+        padding: 4%;
+        width: 100%;
+    
+    
+    
+    }
+    @keyframes fadein {
+        0% {
+            opacity:0;
+        }
+        50%{
+            opacity:0.5;
+        }
+        100% {
+            opacity:1;
+        }
+    }
+    h2 {
+        color: white;
+    }
+    body::-webkit-scrollbar {
+        -webkit-appearance: none;
+    }
+    .imgace {
+    width: 2%;
+    }
+    .musictitle {
+        color: white;
+        font-weight: bold;
+    }
+    .nav2 {
+        background: rgb(36, 36, 36);
+    color: white;
+        padding: 0.1%;
+    
+    
+    }
+    .nav3 {
+        background: rgb(36, 36, 36);
+        color: white;
+    
+        padding: 0.1%;
+    width: 100%;
+    
+    }
+    a {
+        text-decoration: none;
+        color: black;
+        padding: 0.5%;
+    }
+    .bar {
+    
+        color: white;
+    }
+    
+    .img1 {
+        width: 40%;
+    
+        padding: 5%;
+    }
+    .img2 {
+        padding: 3%;
+        border-radius: 70%;
+        width: 40%;
+    }
+    div {
+        display:inline-block;
+    
+    
+    }
+    
+    .div2 {
+     
+    }
+    .container {
+        padding: 1%;
+        width: 40%;
+    }
+    .container2 {
+    
+        width:45%;
+        padding-left: 5%;
+
+    }
+    .container3 {
+    
+        width: 70%;
+        padding-left: 5%;
+    }
+    .d1 {
+        float: left;
+        background: #d1b43f;
+        
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+        border-radius: 10px;
+    }
+    .d2 {
+        float: right;
+      
+        background: #031D44;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 80%;
+    
+        border-radius: 10px;
+    }
+    .d3 {
+        float: left;
+      
+        background: #6f0e0e;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d4 {
+        float: right;
+      
+        background: #440343;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d5 {
+        float: left;
+      
+        background: #e11b95;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d6 {
+        float: right;
+      
+        background: #507701;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d7 {
+        float: left;
+      
+        background: #1c6cb7;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 80%;
+    
+        border-radius: 10px;
+    }
+    .d8 {
+        float: right;
+      
+        background: #910c0c;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    
+    .dc1 {
+        float: left;
+      
+        background: #181819;
+        height: 22vh;
+        width:50%;
+        text-align: center;
+           padding: 2%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc1 {
+        float: left;
+      
+        background: #181819;
+        height: 12vh;
+        width:35%;
+        text-align: center;
+        padding: 10%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc2 {
+    
+        background: #181819;
+        height: 12vh;
+        width:35%;
+        text-align: center;
+        padding: 10%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dc2 {
+        float: right;
+        background: #181819;
+        height: 12vh;
+        width:35%;
+        text-align: center;
+        padding: 10%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .acategoria {
+        color:white;
+       
+    }
+    .divhijo {
+        background: #979797;
+        height: 10vh;
+        width:90%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .divhijo1 {
+        background: #979797;
+        height: 7vh;
+        width:90%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 80px;
+    }
+    .divhijo2 {
+        background: #979797;
+    
+        width:100%;
+        
+      
+    }
+    .titleproduct {
+    font-size: 100%;
+    }
+    .pcontainer {
+        text-align: left;
+        font-size: 25%;
+    }
+    .pcontainer2 {
+        text-align: left;
+        font-size: 15px;
+        color:red;
+    }
+    .ull {
+    list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+    .pred {
+        color: red;
+    }
+    .pdes {
+        width: 10%;
+    }
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    
+    .album {
+        flex-basis: 48%;
+        color: aliceblue;
+    }
+    
+    section {
+        flex-basis: 48%;
+    }
+    
+    /* Estilos para la sección del artista */
+    
+    .titulo1 {
+        font-size: 50px;
+    }
+    
+    section:first-child {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    section:first-child img {
+        width: 100%;
+        max-width: 400px;
+        margin-bottom: 20px;
+    }
+    
+    /* Estilos para la sección de las canciones */
+    
+    .titulo2 {
+    color: aliceblue;
+    font-size: 50px;
+    }
+    
+    section:last-child {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .canciones {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        height: 200px;
+    }
+    
+    .cancion {
+        flex-basis: 30%;
+        background-color: #333333;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    .cancion h2 {
+        margin-top: 0;
+    }
+    
+    @media only screen and (max-width: 768px) {
+        main {
+            flex-direction: column;
+        }
+        section {
+            flex-basis: 100%;
+        }
+    }   
+    
+    .albumimg {
+        border-radius: 200px;
+    }
+    .imgproduct {
+        width: 40%;
+    }  
+}
+/* FOR MOBILE 375*667 */
+@media screen and (max-width:375px) {
+    .nav {
+        background: rgb(31, 30, 30);
+        padding: 4%;
+        width: 100%;
+    
+    
+    
+    }
+    @keyframes fadein {
+        0% {
+            opacity:0;
+        }
+        50%{
+            opacity:0.5;
+        }
+        100% {
+            opacity:1;
+        }
+    }
+    h2 {
+        color: white;
+    }
+    body::-webkit-scrollbar {
+        -webkit-appearance: none;
+    }
+    .imgace {
+    width: 2%;
+    }
+    .musictitle {
+        color: white;
+        font-weight: bold;
+    }
+    .nav2 {
+        background: rgb(36, 36, 36);
+    color: white;
+        padding: 0.1%;
+    
+    
+    }
+    .nav3 {
+        background: rgb(36, 36, 36);
+        color: white;
+    
+        padding: 0.1%;
+    width: 100%;
+    
+    }
+    a {
+        text-decoration: none;
+        color: black;
+        padding: 0.5%;
+    }
+    .bar {
+    
+        color: white;
+    }
+    
+    .img1 {
+        width: 40%;
+    
+        padding: 5%;
+    }
+    .img2 {
+        padding: 3%;
+        border-radius: 70%;
+        width: 40%;
+    }
+    div {
+        display:inline-block;
+    
+    
+    }
+    
+    .div2 {
+     
+    }
+    .container {
+        padding: 1%;
+        width: 40%;
+    }
+    .container2 {
+    
+        width:45%;
+        padding-left: 5%;
+
+    }
+    .container3 {
+    
+        width: 70%;
+        padding-left: 5%;
+    }
+    .d1 {
+        float: left;
+        background: #d1b43f;
+        
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+        border-radius: 10px;
+    }
+    .d2 {
+        float: right;
+      
+        background: #031D44;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 80%;
+    
+        border-radius: 10px;
+    }
+    .d3 {
+        float: left;
+      
+        background: #6f0e0e;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d4 {
+        float: right;
+      
+        background: #440343;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d5 {
+        float: left;
+      
+        background: #e11b95;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d6 {
+        float: right;
+      
+        background: #507701;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    .d7 {
+        float: left;
+      
+        background: #1c6cb7;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 80%;
+    
+        border-radius: 10px;
+    }
+    .d8 {
+        float: right;
+      
+        background: #910c0c;
+        height: 15vh;
+        width:45%;
+        text-align: center;
+        height:19vh;    
+        font-size: 100%;
+    
+        border-radius: 10px;
+    }
+    
+    .dc1 {
+        float: left;
+      
+        background: #181819;
+        height: 22vh;
+        width:50%;
+        text-align: center;
+           padding: 2%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc1 {
+        float: left;
+      
+        background: #181819;
+        height: 12vh;
+        width:35%;
+        text-align: center;
+        padding: 10%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dcc2 {
+    
+        background: #181819;
+        height: 12vh;
+        width:35%;
+        text-align: center;
+        padding: 10%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .dc2 {
+        float: right;
+        background: #181819;
+        height: 12vh;
+        width:35%;
+        text-align: center;
+        padding: 10%;
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .acategoria {
+        color:white;
+       
+    }
+    .divhijo {
+        background: #979797;
+        height: 10vh;
+        width:90%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 10px;
+    }
+    .divhijo1 {
+        background: #979797;
+        height: 5.5vh;
+        width:60%;
+        text-align: center;
+           
+        font-size: 40px;
+        border-radius: 80px;
+    }
+    .divhijo2 {
+        background: #979797;
+    
+        width:100%;
+        
+      
+    }
+    .titleproduct {
+    font-size: 100%;
+    }
+    .pcontainer {
+        text-align: left;
+        font-size: 25%;
+    }
+    .pcontainer2 {
+        text-align: left;
+        font-size: 15px;
+        color:red;
+    }
+    .ull {
+    list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+    .pred {
+        color: red;
+    }
+    .pdes {
+        width: 10%;
+    }
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    
+    .album {
+        flex-basis: 48%;
+        color: aliceblue;
+    }
+    
+    section {
+        flex-basis: 48%;
+    }
+    
+    /* Estilos para la sección del artista */
+    
+    .titulo1 {
+        font-size: 50px;
+    }
+    
+    section:first-child {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    section:first-child img {
+        width: 100%;
+        max-width: 400px;
+        margin-bottom: 20px;
+    }
+    
+    /* Estilos para la sección de las canciones */
+    
+    .titulo2 {
+    color: aliceblue;
+    font-size: 50px;
+    }
+    
+    section:last-child {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .canciones {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        height: 200px;
+    }
+    
+    .cancion {
+        flex-basis: 30%;
+        background-color: #333333;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    .cancion h2 {
+        margin-top: 0;
+    }
+    
+    @media only screen and (max-width: 768px) {
+        main {
+            flex-direction: column;
+        }
+        section {
+            flex-basis: 100%;
+        }
+    }   
+    
+    .albumimg {
+        border-radius: 200px;
+    }
+    .imgproduct {
+        width: 40%;
+    }  
+}
